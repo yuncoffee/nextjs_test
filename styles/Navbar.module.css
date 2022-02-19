@@ -1,0 +1,12 @@
+.nav {
+    background: tomato;
+}
+
+.active {
+    color: azure;
+    transition: 0.3s;
+}
+
+.link {
+    text-decoration: none;
+}
